@@ -21,7 +21,7 @@ float v1ilerp(float a, float b, float c);
 
 Vec2 v2add(Vec2 a, Vec2 b);
 Vec2 v2sub(Vec2 a, Vec2 b);
-Vec2 v2scale(Vec3 a, float sc);
+Vec2 v2scale(Vec2 a, float sc);
 float v2dot(Vec2 a, Vec2 b);
 float v2len(Vec2 a);
 Vec2 v2norm(Vec2 a);
